@@ -1,7 +1,7 @@
 {
-  "name": "untitled-application",
+  "name": "bt-admin",
   "version": "1.0.0",
-  "description": "Integrate Zapier with Untitled Application",
+  "description": "Integrate Zapier with BT Admin",
   "main": "index.js",
   "scripts": {
     "test": "mocha --recursive -t 10000"
